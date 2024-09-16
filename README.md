@@ -1,6 +1,6 @@
 # GitWorkflowBasics
 
-Names: Devin Rovito, David Morales
+Names: Devin Rovito, David Morales, Janeth Reyna
 
 # Challenges
 Devin
